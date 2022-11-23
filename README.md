@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install ruff from PyPI
-        uses: install-pinned/ruff@9c6eba79e67317402e4c1d07493dbbcf15b0fe7b  # 0.0.133
+        uses: install-pinned/ruff@900a6747866e9d2d047b0993aba5686acd469ee2  # 0.0.135
 ```
 
 ## Alternatives
