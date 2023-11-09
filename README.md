@@ -4,7 +4,7 @@
 <!-- ⚠️auto-generated from init.py, do not edit manually ⚠️-->
 <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 
-![](https://shields.io/badge/python-%3E=3.7-blue)
+![](https://shields.io/badge/python-%3E=3.8-blue)
 ![](https://shields.io/badge/runner%20os-Windows%20%7C%20Linux%20%7C%20macOS-blue)
 
 Securely install the latest [ruff](https://pypi.org/project/ruff/) release from PyPI.
