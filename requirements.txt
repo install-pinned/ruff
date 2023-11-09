@@ -1,4 +1,4 @@
-ruff==0.1.5 ; python_version >= "3.7" and python_version < "4.0" \
+ruff==0.1.5 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:171276c1df6c07fa0597fb946139ced1c2978f4f0b8254f201281729981f3c17 \
     --hash=sha256:17ef33cd0bb7316ca65649fc748acc1406dfa4da96a3d0cde6d52f2e866c7b39 \
     --hash=sha256:32d47fc69261c21a4c48916f16ca272bf2f273eb635d91c65d5cd548bf1f3d96 \
