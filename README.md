@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install ruff from PyPI
-        uses: install-pinned/ruff@f02652f908737b8dd4b7f444591cd85b3a5a63b7  # 0.6.4
+        uses: install-pinned/ruff@b6ddbc8f0b2a78f2b422ed0eebe83cee9c25d754  # 0.6.5
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
